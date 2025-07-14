@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
       // home: ContainerSizedbox(),
       // home: RowsColums(),
       // home: Buttons(),
-      home: DismissibleWidget(),
+      home: BottomSnack(),
     );
   }
 }
